@@ -1,6 +1,6 @@
 # EM Redeem Code Sample
 
-![Alt text](relative/sample.png?raw=true "Sample")
+![Sample Image](./sample.png?raw=true "Sample")
 
 ### Prerequisites
 

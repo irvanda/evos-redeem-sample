@@ -1,0 +1,14 @@
+{
+  "name": "redeem-sample",
+  "version": "1.0.0",
+  "main": "index.html",
+  "repository": "https://github.com/maulidiyah-nur/evos-redeem-sample.git",
+  "author": "nur maulidiyah <nur.maulidiyah20@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
